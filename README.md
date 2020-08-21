@@ -4,9 +4,13 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
 
+---
+
 ### Connect with me:
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/prechar-xiong-22a35916a/)
+
+---
 
 ### Languages and Tools:
 
@@ -31,7 +35,12 @@
 
 ---
 
+
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
