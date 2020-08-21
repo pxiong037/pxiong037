@@ -12,6 +12,12 @@
 
 ---
 
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxiong037&layout=compact)](https://github.com/pxiong037/github-readme-stats)
@@ -32,13 +38,6 @@
 
 <br />
 <br />
-
----
-
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
 
 <details>
   <summary>:zap: Github Stats</summary>
