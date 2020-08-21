@@ -8,10 +8,6 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/prechar-xiong-22a35916a/)
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 ### Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pxiong037&layout=compact)](https://github.com/pxiong037/github-readme-stats)
@@ -34,6 +30,8 @@
 <br />
 
 ---
+
+<!--START_SECTION:activity-->
 
 <details>
   <summary>:zap: Github Stats</summary>
