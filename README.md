@@ -1,9 +1,8 @@
 ### Hi there, I'm Prechar Xiong! 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
-
+- 🌱 I’m currently working on side projects and looking for job oppurtunities 🤣
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- 
 ---
 
 ### Connect with me:
