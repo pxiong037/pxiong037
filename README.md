@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working on side projects and looking for job oppurtunities 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- 
+
 ---
 
 ### Connect with me:
